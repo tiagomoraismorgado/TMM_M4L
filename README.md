@@ -6,3 +6,7 @@
 <sub>Collection of maxforlive devices by TEM44. By now, the library consists mostly of midi data processors and generators, and aims basically at generating and treating MIDI data. there are a couple of exceptions like audio delays and audio structure generators made with beap, but the main focus relies basically on MIDI data. nJoy!!!</sub> <sub>, if you like to use these devices.</sub>
 
 
+| [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JGGN7CCJJN2G8) |
+
+
+
